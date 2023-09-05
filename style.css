@@ -1,0 +1,154 @@
+.welcome{
+    background-color:mediumseagreen;
+    background-image:url("./softwar2_icon.jpg");
+    height:180px;
+    color:whitesmoke;
+
+}
+
+.aboutme{
+    color:purple;
+    border:1px solid white;
+    background-image:url("./white\ bg2.png");
+}
+.me1{
+    color:white;
+    border:1px solid maroon;
+    width:102px;
+    background-color:#3cb371;
+    border-radius:10px;
+}
+.me1:hover{
+    color:red;
+    border:2px solid black;
+    width:106px;
+    background-color:grey;
+    border-radius:10px;
+}
+
+.me2{
+    color:white;
+    border:1px solid maroon;
+    width:102px;
+    background-color:#3cb371;
+    border-radius:10px;
+}
+.me2:hover{
+    color:red;
+    border:2px solid black;
+    width:106px;
+    background-color:grey;
+    border-radius:10px;
+}
+
+.portfolio{
+    color:purple;
+    border:1px solid white;
+    background-image:url("./white\ bg2.png");
+}
+
+.col2{
+    text-align:justify;
+    font-style:normal;
+    background-image:url("./white\ bg2.png");  
+}
+
+.img1{
+    width:140px;
+    height:390px;
+    border:2px solid black;
+    background-image:url("./white\ bg.jpg");
+}
+
+.color{
+    color:maroon;
+}
+
+.und{
+    background-color:bisque;
+}
+
+.pro-img1{
+    display: flex;
+    justify-content:center;
+    align-items:center; 
+    width: 300px;
+    padding:5px;
+    background-position:center;
+}
+
+.pro-img2{
+    width: 590px;
+    height:300px;
+    padding:5px;
+    background-position:center;
+}
+
+.prj{
+    color:maroon;
+    
+}
+.ml{
+    display:flex;
+    justify-content:center;
+    color:#3cb371;
+    color:white;
+    border:1px solid maroon;
+    background-color:#3cb371;
+    border-radius:8px;
+}
+.ml:hover{
+    color:red;
+    border:2px solid black;
+    background-color:grey;
+    border-radius:10px;
+}
+.java{
+    display:flex;
+    justify-content:center;
+    color:#3cb371;
+    color:white;
+    border:1px solid maroon;
+    background-color:#3cb371;
+    border-radius:8px;
+}
+.java:hover{
+    color:red;
+    border:2px solid black;
+    background-color:grey;
+    border-radius:10px;
+}
+
+.prjinfo{
+    padding-top:5px;
+    padding-left:5px;
+    padding-right:5px;
+    padding-bottom:5px;
+}
+
+.prjinfo:hover{
+    border:2px solid black;
+    background-color:bisque;
+    border-radius:10px;
+    width:430px;
+    height:180px;     
+}
+
+.Icons{
+    width:20px;
+    height:20px;
+}
+.Icon-text{
+    color:white;
+}
+
+
+.foot1{
+    white-space:pre;
+}
+.contact{
+    padding-bottom:1px;
+    color:purple;
+    border:1px solid white;
+    background-image:url("./white\ bg2.png");
+}
